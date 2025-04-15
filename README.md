@@ -25,4 +25,4 @@ SwiftUI-based iOS application that displays a product catalog with filtering and
 
 **Setup**
 - Clone the repository
-  - git clone "git@github.com:soumya-mishra-97/ProductCatalog-iOS.git"
+  - git clone git@github.com:soumya-mishra-97/ProductCatalog-iOS.git
