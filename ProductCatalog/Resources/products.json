@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy S23",
+    "category": "Electronics",
+    "price": 113.24,
+    "isFavorite": false
+  },
+  {
+    "id": 2,
+    "name": "L'Oréal Paris Revitalift",
+    "category": "Fashion",
+    "price": 142.8,
+    "isFavorite": false
+  },
+  {
+    "id": 3,
+    "name": "IKEA Poäng Chair",
+    "category": "Home",
+    "price": 92.3,
+    "isFavorite": false
+  },
+  {
+    "id": 4,
+    "name": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 117.08,
+    "isFavorite": false
+  },
+  {
+    "id": 5,
+    "name": "Adidas Ultraboost",
+    "category": "Fashion",
+    "price": 30.07,
+    "isFavorite": false
+  },
+  {
+    "id": 6,
+    "name": "Philips Hue Lightstrip",
+    "category": "Home",
+    "price": 113.09,
+    "isFavorite": false
+  },
+  {
+    "id": 7,
+    "name": "Estée Lauder Advanced Night Repair",
+    "category": "Fashion",
+    "price": 151.15,
+    "isFavorite": false
+  },
+  {
+    "id": 8,
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 192.21,
+    "isFavorite": false
+  },
+  {
+    "id": 9,
+    "name": "Samsung Smart Watch",
+    "category": "Electronics",
+    "price": 118.08,
+    "isFavorite": false
+  },
+  {
+    "id": 10,
+    "name": "Nike React Infinity",
+    "category": "Fashion",
+    "price": 131.42,
+    "isFavorite": false
+  },
+  {
+    "id": 11,
+    "name": "Apple MacBook Air M2",
+    "category": "Electronics",
+    "price": 193.9,
+    "isFavorite": false
+  },
+  {
+    "id": 12,
+    "name": "IKEA Malm Desk",
+    "category": "Home",
+    "price": 153.02,
+    "isFavorite": false
+  },
+  {
+    "id": 13,
+    "name": "Sony Bravia 4K TV",
+    "category": "Electronics",
+    "price": 30.13,
+    "isFavorite": false
+  },
+  {
+    "id": 14,
+    "name": "Dyson V11 Vacuum",
+    "category": "Home",
+    "price": 163.04,
+    "isFavorite": false
+  },
+  {
+    "id": 15,
+    "name": "Samsung Odyssey Monitor",
+    "category": "Electronics",
+    "price": 188.02,
+    "isFavorite": false
+  },
+  {
+    "id": 16,
+    "name": "Apple iPad Pro",
+    "category": "Electronics",
+    "price": 131.78,
+    "isFavorite": false
+  },
+  {
+    "id": 17,
+    "name": "Adidas NMD Sneakers",
+    "category": "Fashion",
+    "price": 168.38,
+    "isFavorite": false
+  },
+  {
+    "id": 18,
+    "name": "Clinique Moisture Surge",
+    "category": "Fashion",
+    "price": 182.27,
+    "isFavorite": false
+  },
+  {
+    "id": 19,
+    "name": "Levi’s 501 Jeans",
+    "category": "Fashion",
+    "price": 58.47,
+    "isFavorite": false
+  },
+  {
+    "id": 20,
+    "name": "Sony PlayStation 5",
+    "category": "Electronics",
+    "price": 34.18,
+    "isFavorite": false
+  },
+  {
+    "id": 21,
+    "name": "Nike Air Force 1",
+    "category": "Fashion",
+    "price": 118.47,
+    "isFavorite": false
+  },
+  {
+    "id": 22,
+    "name": "IKEA Billy Bookcase",
+    "category": "Home",
+    "price": 104.26,
+    "isFavorite": false
+  },
+  {
+    "id": 23,
+    "name": "Adidas Stan Smith",
+    "category": "Fashion",
+    "price": 13.56,
+    "isFavorite": false
+  },
+  {
+    "id": 24,
+    "name": "Atomic Habits",
+    "category": "Books",
+    "price": 147.47,
+    "isFavorite": false
+  },
+  {
+    "id": 25,
+    "name": "Lancôme La Vie Est Belle",
+    "category": "Fashion",
+    "price": 139.02,
+    "isFavorite": false
+  },
+  {
+    "id": 26,
+    "name": "Nike Zoom Pegasus",
+    "category": "Fashion",
+    "price": 187.25,
+    "isFavorite": false
+  },
+  {
+    "id": 27,
+    "name": "Samsung QLED TV",
+    "category": "Electronics",
+    "price": 195.95,
+    "isFavorite": false
+  },
+  {
+    "id": 28,
+    "name": "The Alchemist",
+    "category": "Books",
+    "price": 120.66,
+    "isFavorite": false
+  },
+  {
+    "id": 29,
+    "name": "Philips Air Purifier",
+    "category": "Home",
+    "price": 134.19,
+    "isFavorite": false
+  },
+  {
+    "id": 30,
+    "name": "Adidas Superstar",
+    "category": "Fashion",
+    "price": 71.03,
+    "isFavorite": false
+  },
+  {
+    "id": 31,
+    "name": "Clean Code",
+    "category": "Books",
+    "price": 51.28,
+    "isFavorite": false
+  },
+  {
+    "id": 32,
+    "name": "Sapiens",
+    "category": "Books",
+    "price": 176.57,
+    "isFavorite": false
+  },
+  {
+    "id": 33,
+    "name": "Levi’s Trucker Jacket",
+    "category": "Fashion",
+    "price": 37.78,
+    "isFavorite": false
+  },
+  {
+    "id": 34,
+    "name": "Chanel No. 5 Perfume",
+    "category": "Fashion",
+    "price": 188.24,
+    "isFavorite": false
+  },
+  {
+    "id": 35,
+    "name": "IKEA Kallax Shelf",
+    "category": "Home",
+    "price": 132.85,
+    "isFavorite": false
+  },
+  {
+    "id": 36,
+    "name": "Dyson Supersonic Hair Dryer",
+    "category": "Home",
+    "price": 95.96,
+    "isFavorite": false
+  },
+  {
+    "id": 37,
+    "name": "Nike Dri-FIT Tee",
+    "category": "Fashion",
+    "price": 69.01,
+    "isFavorite": false
+  },
+  {
+    "id": 38,
+    "name": "Nivea Soft Cream",
+    "category": "Fashion",
+    "price": 10.08,
+    "isFavorite": false
+  },
+  {
+    "id": 39,
+    "name": "Adidas Track Pants",
+    "category": "Fashion",
+    "price": 134.34,
+    "isFavorite": false
+  },
+  {
+    "id": 40,
+    "name": "Apple Watch Series 9",
+    "category": "Electronics",
+    "price": 77.19,
+    "isFavorite": false
+  },
+  {
+    "id": 41,
+    "name": "Levi’s Denim Shirt",
+    "category": "Fashion",
+    "price": 18.45,
+    "isFavorite": false
+  },
+  {
+    "id": 42,
+    "name": "Sony Wireless Earbuds",
+    "category": "Electronics",
+    "price": 20.52,
+    "isFavorite": false
+  },
+  {
+    "id": 43,
+    "name": "Nike Hoodie",
+    "category": "Fashion",
+    "price": 134.62,
+    "isFavorite": false
+  },
+  {
+    "id": 44,
+    "name": "Olay Regenerist Serum",
+    "category": "Fashion",
+    "price": 176.26,
+    "isFavorite": false
+  },
+  {
+    "id": 45,
+    "name": "Adidas Slides",
+    "category": "Fashion",
+    "price": 15.14,
+    "isFavorite": false
+  },
+  {
+    "id": 46,
+    "name": "Levi’s Slim Fit Jeans",
+    "category": "Fashion",
+    "price": 180.02,
+    "isFavorite": false
+  },
+  {
+    "id": 47,
+    "name": "Maybelline Mascara",
+    "category": "Fashion",
+    "price": 38.79,
+    "isFavorite": false
+  },
+  {
+    "id": 48,
+    "name": "L'Oréal Hair Mask",
+    "category": "Fashion",
+    "price": 117.11,
+    "isFavorite": false
+  },
+  {
+    "id": 49,
+    "name": "Samsung Soundbar",
+    "category": "Electronics",
+    "price": 94.05,
+    "isFavorite": false
+  },
+  {
+    "id": 50,
+    "name": "Thinking, Fast and Slow",
+    "category": "Books",
+    "price": 108.13,
+    "isFavorite": false
+  },
+  {
+    "id": 51,
+    "name": "Nike Windrunner Jacket",
+    "category": "Fashion",
+    "price": 168.65,
+    "isFavorite": false
+  },
+  {
+    "id": 52,
+    "name": "Adidas Backpack",
+    "category": "Fashion",
+    "price": 189.43,
+    "isFavorite": false
+  },
+  {
+    "id": 53,
+    "name": "Nike Free Run",
+    "category": "Fashion",
+    "price": 80.19,
+    "isFavorite": false
+  },
+  {
+    "id": 54,
+    "name": "IKEA Ektorp Sofa",
+    "category": "Home",
+    "price": 155.8,
+    "isFavorite": false
+  },
+  {
+    "id": 55,
+    "name": "The Power of Habit",
+    "category": "Books",
+    "price": 185.63,
+    "isFavorite": false
+  },
+  {
+    "id": 56,
+    "name": "Educated",
+    "category": "Books",
+    "price": 82.05,
+    "isFavorite": false
+  },
+  {
+    "id": 57,
+    "name": "Apple iPhone 15",
+    "category": "Electronics",
+    "price": 190.14,
+    "isFavorite": false
+  },
+  {
+    "id": 58,
+    "name": "Sony Alpha Camera",
+    "category": "Electronics",
+    "price": 165.64,
+    "isFavorite": false
+  },
+  {
+    "id": 59,
+    "name": "Clinique Happy Perfume",
+    "category": "Fashion",
+    "price": 166.38,
+    "isFavorite": false
+  },
+  {
+    "id": 60,
+    "name": "Samsung Tablet A9",
+    "category": "Electronics",
+    "price": 179.68,
+    "isFavorite": false
+  },
+  {
+    "id": 61,
+    "name": "Adidas Gazelle",
+    "category": "Fashion",
+    "price": 120.32,
+    "isFavorite": false
+  },
+  {
+    "id": 62,
+    "name": "Dune",
+    "category": "Books",
+    "price": 172.31,
+    "isFavorite": false
+  },
+  {
+    "id": 63,
+    "name": "IKEA Lack Table",
+    "category": "Home",
+    "price": 46.24,
+    "isFavorite": false
+  },
+  {
+    "id": 64,
+    "name": "Nike Metcon",
+    "category": "Fashion",
+    "price": 87.32,
+    "isFavorite": false
+  },
+  {
+    "id": 65,
+    "name": "Neutrogena Hydro Boost",
+    "category": "Fashion",
+    "price": 108.6,
+    "isFavorite": false
+  },
+  {
+    "id": 66,
+    "name": "Adidas Samba",
+    "category": "Fashion",
+    "price": 183.81,
+    "isFavorite": false
+  },
+  {
+    "id": 67,
+    "name": "1984",
+    "category": "Books",
+    "price": 165.71,
+    "isFavorite": false
+  },
+  {
+    "id": 68,
+    "name": "The Lean Startup",
+    "category": "Books",
+    "price": 105.11,
+    "isFavorite": false
+  },
+  {
+    "id": 69,
+    "name": "Nike Air Zoom",
+    "category": "Fashion",
+    "price": 154.36,
+    "isFavorite": false
+  },
+  {
+    "id": 70,
+    "name": "Levi’s Bomber Jacket",
+    "category": "Fashion",
+    "price": 89.38,
+    "isFavorite": false
+  },
+  {
+    "id": 71,
+    "name": "Adidas Running Shoes",
+    "category": "Fashion",
+    "price": 151.92,
+    "isFavorite": false
+  },
+  {
+    "id": 72,
+    "name": "Nike Flip Flops",
+    "category": "Fashion",
+    "price": 18.32,
+    "isFavorite": false
+  },
+  {
+    "id": 73,
+    "name": "Apple AirTag",
+    "category": "Electronics",
+    "price": 84.02,
+    "isFavorite": false
+  },
+  {
+    "id": 74,
+    "name": "Adidas Sweatshirt",
+    "category": "Fashion",
+    "price": 163.94,
+    "isFavorite": false
+  },
+  {
+    "id": 75,
+    "name": "Sony USB-C Charger",
+    "category": "Electronics",
+    "price": 15.27,
+    "isFavorite": false
+  },
+  {
+    "id": 76,
+    "name": "Nike Vaporfly",
+    "category": "Fashion",
+    "price": 109.43,
+    "isFavorite": false
+  },
+  {
+    "id": 77,
+    "name": "IKEA Hemnes Dresser",
+    "category": "Home",
+    "price": 51.56,
+    "isFavorite": false
+  },
+  {
+    "id": 78,
+    "name": "Samsung Wireless Charger",
+    "category": "Electronics",
+    "price": 91.45,
+    "isFavorite": false
+  },
+  {
+    "id": 79,
+    "name": "Garnier Micellar Water",
+    "category": "Fashion",
+    "price": 25.42,
+    "isFavorite": false
+  },
+  {
+    "id": 80,
+    "name": "Philips LED Lamp",
+    "category": "Home",
+    "price": 99.49,
+    "isFavorite": false
+  },
+  {
+    "id": 81,
+    "name": "Apple Magic Keyboard",
+    "category": "Electronics",
+    "price": 151.27,
+    "isFavorite": false
+  },
+  {
+    "id": 82,
+    "name": "Becoming",
+    "category": "Books",
+    "price": 199.72,
+    "isFavorite": false
+  },
+  {
+    "id": 83,
+    "name": "Sony Smart Speaker",
+    "category": "Electronics",
+    "price": 194.22,
+    "isFavorite": false
+  },
+  {
+    "id": 84,
+    "name": "Nike Sports Bra",
+    "category": "Fashion",
+    "price": 59.24,
+    "isFavorite": false
+  },
+  {
+    "id": 85,
+    "name": "Dyson Airwrap",
+    "category": "Home",
+    "price": 86.72,
+    "isFavorite": false
+  },
+  {
+    "id": 86,
+    "name": "Adidas Joggers",
+    "category": "Fashion",
+    "price": 122.04,
+    "isFavorite": false
+  },
+  {
+    "id": 87,
+    "name": "IKEA Dining Table",
+    "category": "Home",
+    "price": 101.21,
+    "isFavorite": false
+  },
+  {
+    "id": 88,
+    "name": "Philips Coffee Maker",
+    "category": "Home",
+    "price": 99.89,
+    "isFavorite": false
+  },
+  {
+    "id": 89,
+    "name": "Samsung Power Bank",
+    "category": "Electronics",
+    "price": 20.03,
+    "isFavorite": false
+  },
+  {
+    "id": 90,
+    "name": "Levi’s Belt",
+    "category": "Fashion",
+    "price": 90.04,
+    "isFavorite": false
+  },
+  {
+    "id": 91,
+    "name": "The Subtle Art",
+    "category": "Books",
+    "price": 134.59,
+    "isFavorite": false
+  },
+  {
+    "id": 92,
+    "name": "Adidas Cap",
+    "category": "Fashion",
+    "price": 191.24,
+    "isFavorite": false
+  },
+  {
+    "id": 93,
+    "name": "IKEA Wardrobe",
+    "category": "Home",
+    "price": 181.91,
+    "isFavorite": false
+  },
+  {
+    "id": 94,
+    "name": "Nike Slides",
+    "category": "Fashion",
+    "price": 110.18,
+    "isFavorite": false
+  },
+  {
+    "id": 95,
+    "name": "La Mer Crème",
+    "category": "Fashion",
+    "price": 187.22,
+    "isFavorite": false
+  },
+  {
+    "id": 96,
+    "name": "Ikigai",
+    "category": "Books",
+    "price": 137.98,
+    "isFavorite": false
+  },
+  {
+    "id": 97,
+    "name": "Adidas Flip Flops",
+    "category": "Fashion",
+    "price": 25.67,
+    "isFavorite": false
+  },
+  {
+    "id": 98,
+    "name": "Dior Sauvage",
+    "category": "Fashion",
+    "price": 199.33,
+    "isFavorite": false
+  },
+  {
+    "id": 99,
+    "name": "Kiehl’s Ultra Facial Cream",
+    "category": "Fashion",
+    "price": 146.5,
+    "isFavorite": false
+  },
+  {
+    "id": 100,
+    "name": "Sony Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 95.35,
+    "isFavorite": false
+  }
+]
